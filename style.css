@@ -9,7 +9,7 @@
 body {
     height: 100vh;
     box-sizing: border-box;
-    background: linear-gradient(to bottom, #b229f0, #f02972, #f02ae9, #7129f0, #f03629, #f079ec);
+    background: #b229f0;
     height: 100vh; /* Ensure the gradient covers the entire viewport height */
     margin: 0; /* Remove default margin */
     color: #000000c9;
